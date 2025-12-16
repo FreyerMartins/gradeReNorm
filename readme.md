@@ -4,7 +4,7 @@ This is an ETL python script that ingest some data,
 applies some transformation, and loads them back into a file.
 
 ## running script
-to run the script, simply run `uv run main.py` to leverage uv's package management.
+to run the script, simply run `uv run run.py` to leverage uv's package management.
 If package dependencies do not sync automatically, run `uv sync` and rerun the script.
 
 ## data source
